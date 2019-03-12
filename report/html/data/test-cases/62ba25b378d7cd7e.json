@@ -1,0 +1,134 @@
+{
+  "uid" : "62ba25b378d7cd7e",
+  "name" : "test_2",
+  "fullName" : "Scripts.test_car_source.Test_1#test_2",
+  "historyId" : "b66eee96f4ab982e4d1ade3de0090554",
+  "time" : {
+    "start" : 1550021863431,
+    "stop" : 1550021867300,
+    "duration" : 3869
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ {
+    "name" : "_Class__pytest_setup_class",
+    "time" : {
+      "start" : 1550021848636,
+      "stop" : 1550021863423,
+      "duration" : 14787
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false,
+    "stepsCount" : 0
+  } ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "输入账号密码",
+      "time" : {
+        "start" : 1550021863432,
+        "stop" : 1550021867299,
+        "duration" : 3867
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "f3e50d838cf9888f",
+        "name" : "用户名:10000000156\n密码:uat.portal",
+        "source" : "f3e50d838cf9888f.attach",
+        "type" : "text/plain",
+        "size" : 21
+      } ],
+      "parameters" : [ ],
+      "attachmentsCount" : 1,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true,
+      "stepsCount" : 0
+    } ],
+    "attachments" : [ {
+      "uid" : "6f8a1e6f76baa91a",
+      "name" : "log",
+      "source" : "6f8a1e6f76baa91a.txt",
+      "type" : "text/plain",
+      "size" : 0
+    }, {
+      "uid" : "3d23247d7daa7946",
+      "name" : "stdout",
+      "source" : "3d23247d7daa7946.txt",
+      "type" : "text/plain",
+      "size" : 0
+    }, {
+      "uid" : "3431b83343dacc0b",
+      "name" : "stderr",
+      "source" : "3431b83343dacc0b.txt",
+      "type" : "text/plain",
+      "size" : 0
+    } ],
+    "parameters" : [ ],
+    "attachmentsCount" : 4,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true,
+    "stepsCount" : 1
+  },
+  "afterStages" : [ {
+    "name" : "_Class__pytest_setup_class::0",
+    "time" : {
+      "start" : 1550021868134,
+      "stop" : 1550021868135,
+      "duration" : 1
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false,
+    "stepsCount" : 0
+  } ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "Scripts"
+  }, {
+    "name" : "suite",
+    "value" : "test_car_source"
+  }, {
+    "name" : "subSuite",
+    "value" : "Test_1"
+  }, {
+    "name" : "host",
+    "value" : "30QCQH2"
+  }, {
+    "name" : "thread",
+    "value" : "5248-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "Scripts.test_car_source"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "62ba25b378d7cd7e.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,41 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "Scripts",
+    "children" : [ {
+      "name" : "test_car_source",
+      "children" : [ {
+        "name" : "Test_1",
+        "children" : [ {
+          "name" : "test_2",
+          "uid" : "62ba25b378d7cd7e",
+          "parentUid" : "f7374f5b9ee2330c110a0f9c24d90ae1",
+          "status" : "passed",
+          "time" : {
+            "start" : 1550021863431,
+            "stop" : 1550021867300,
+            "duration" : 3869
+          },
+          "flaky" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "test_1",
+          "uid" : "2539ff86723611f2",
+          "parentUid" : "f7374f5b9ee2330c110a0f9c24d90ae1",
+          "status" : "passed",
+          "time" : {
+            "start" : 1550021867350,
+            "stop" : 1550021868131,
+            "duration" : 781
+          },
+          "flaky" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "f7374f5b9ee2330c110a0f9c24d90ae1"
+      } ],
+      "uid" : "a340cbb8cf602fdc81b10638d64bb542"
+    } ],
+    "uid" : "ac537b8f55a60b2e2381ee5657079cea"
+  } ]
+}
